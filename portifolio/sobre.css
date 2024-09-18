@@ -86,7 +86,7 @@ h1 {
 .link button{
     width: 200px;
     height: 60px;
-    border-radius: 16px;
+    border-radius: 58px;
     font-size: 18px;
     background-color: var(--cor_destaque);
     color: var(--dark);
